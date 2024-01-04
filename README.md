@@ -1,1 +1,5 @@
 # Projet-5-Optimiser-la-gestion-des-donn-es-d-une-boutique-avec-R-ou-Python
+
+Contexte: Bottleneck marchand de vin très prestigieux, utilisait un ERP pour gérer ses ressources et ses clients, mais il n'était pas du tout connecté à son site de vente en ligne. Ses outils étaient assez rudimentaires, ce qui rendait la gestion des stocks complexe et limitait sa visibilité en termes d'analyse des ventes en ligne, car peu de personnes ont accès au back-office. En attendant une solution plus intégrée, l'entreprise a envisagé un rapprochement manuel entre les données de ces deux systèmes. 
+
+Mes missions : Rapprocher les exports ERP (références produits, prix de vente et niveaux de stock) et ceux du site en ligne (noms, descriptions et nombre de ventes des produits). Calculer le chiffre d'affaires par produit ainsi que le total du chiffre d'affaires en ligne. Analyser des prix des produits pour détecter d'éventuelles erreurs de saisie, les répertorier et les visualiser graphiquement pour une meilleure compréhension.
