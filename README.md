@@ -1,4 +1,4 @@
-# Projet-5-Optimiser-la-gestion-des-donn-es-d-une-boutique-avec-R-ou-Python
+# Projet-5-Optimiser-la-gestion-des-donnees-d-une-boutique-avec-R-ou-Python
 
 Contexte: Bottleneck marchand de vin très prestigieux, utilisait un ERP pour gérer ses ressources et ses clients, mais il n'était pas du tout connecté à son site de vente en ligne. Ses outils étaient assez rudimentaires, ce qui rendait la gestion des stocks complexe et limitait sa visibilité en termes d'analyse des ventes en ligne, car peu de personnes ont accès au back-office. En attendant une solution plus intégrée, l'entreprise a envisagé un rapprochement manuel entre les données de ces deux systèmes. 
 
